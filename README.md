@@ -10,9 +10,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>    
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Tailwind_CSS_Logo.svg" alt="TailwindCSS" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/94/Google_Apps_Script_logo.svg" alt="Google Apps Script" width="40" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/42/Google_Data_Studio_logo.svg" alt="Looker Studio" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/septiansyah03/septiansyah03/main/Tailwind_CSS.png" alt="TailwindCSS" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/septiansyah03/septiansyah03/main/appscript.jpg" alt="Google Apps Script" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/septiansyah03/septiansyah03/main/looker.jpg" alt="Looker Studio" width="40" height="40"/>
 </div>
 
 
