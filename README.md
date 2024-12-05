@@ -19,7 +19,7 @@
 <div style="display: flex; gap: 15px;"> 
   <img src="https://www.netlify.com/v3/img/components/logomark.png" alt="Netlify" width="40" height="40"/> 
   <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Pages" width="40" height="40"/> 
-  <img src="https://api.cpanel.net/resources-brand-assets/cpanel-logo.png" alt="cPanel" width="40" height="40"/> 
+  <img src="https://raw.githubusercontent.com/septiansyah03/septiansyah03/main/download%20(5).png" alt="Looker Studio" width="40" height="40"/>
 </div>
 
 
