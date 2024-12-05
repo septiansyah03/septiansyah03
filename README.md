@@ -36,7 +36,7 @@
 ## 🌐 Connect with Me:
 
 - [![Gmail](https://img.shields.io/badge/GMAIL-c14438?style=flat-square&logo=gmail&logoColor=white)](mailto:addinseptiyansyah96@gmail.com)
-- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/your-username)
+- [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&logoColor=white)](https://github.com/septiansyah03)
 
 
 ---
